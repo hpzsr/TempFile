@@ -1,0 +1,2 @@
+https://www.jianshu.com/p/3b2a38f62181
+netsh http add urlacl url=http://*:10086/ user=Everyone
